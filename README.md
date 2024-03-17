@@ -66,10 +66,18 @@ The website will be live at `http://localhost:3000`.
 To run the app, you'll need Expo GO App installed on your smartphone. Scan the QR code from the terminal to run the app on your smartphone.
 
 ## Screenshots
-![image](assets/screenshot-1.png)
+![image](https://lambda.yashraj.eu.org/XLvae0y)
+![text](https://lambda.yashraj.eu.org/tiRHGhc)
+![text](https://lambda.yashraj.eu.org/vGJR2pM)
+![text](https://lambda.yashraj.eu.org/E3rfEmZ)
+![text](https://lambda.yashraj.eu.org/n4ZcznX)
+![text](https://lambda.yashraj.eu.org/nQX4j2P)
 
 ## Contributors
 - [Yashraj Narke](https://github.com/yashraj-n)
+- [Himanshu Gupta](https://github.com/hmshuv)
+- [Vishwesh Bhat](https://github.com/vishweshbhat)
+- [Ashish Sharma](https://github.com/ASHISH9925)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
