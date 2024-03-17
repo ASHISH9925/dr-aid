@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.record {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.record:hover {
+    background-color: #eaeaea;
+}
+.record .actions {
+    float: right;
+}
+.record img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.enlarged {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+.enlarged img {
+    max-width: 80%;
+    max-height: 80%;
+}
+.add-form {
+    margin-bottom: 20px;
+}
+.add-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+.add-form input,
+.add-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.add-form button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.add-form button:hover {
+    background-color: #0056b3;
+}
